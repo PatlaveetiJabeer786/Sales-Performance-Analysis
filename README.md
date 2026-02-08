@@ -16,4 +16,5 @@ This project involved engineering an automated data pipeline to consolidate and 
 * **Excel:** Initial data exploration and case study documentation.
 
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot]("D:\POWER_BI_PROJECTS\Tecnoedge_sales_Analysis_Project\Technoedge Sales Dash Board.jpg")
+![Dashboard Screenshot](["D:\POWER_BI_PROJECTS\Tecnoedge_sales_Analysis_Project\Technoedge Sales Dash Board.jpg"](https://app.powerbi.com/groups/me/reports/926b0221-eca3-4ecf-90df-2c3339184fd9?ctid=6c077158-fe5e-48a5-b44d-f037b4c5e3e3&pbi_source=linkShare)
+)
